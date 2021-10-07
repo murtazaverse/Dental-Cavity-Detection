@@ -1,4 +1,9 @@
 # CNN-Model-For-Dental-Cavity-Detection
+
+## Introduction:
+Dental cavity detection is a hard task to accomplish because of the odd features of the teeth. In a dental radiograph, there are a lot of factors that affect the quality and readability of the image. These factor make it difficult for a dentist to read the issue in the x-ray properly. I have designed a system that would first enhance the quality of the image, to increase the readability of the image, and then it would also detect the cavity in the image if present.
+
+## About Project:
 Built a CNN Model that can detect a Cavity in a Dental X-ray
 
 Steps:
